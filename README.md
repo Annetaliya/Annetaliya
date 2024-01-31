@@ -1,6 +1,7 @@
 ## Hi there 👋
- #### I'm Annette, a dedicated frontend developer with a flair for creating visually stunning and user-friendly web applications.
- #### My journey in the world of coding began with a love for crafting elegant and responsive user interfaces.
+### About Me
+ I'm Annette, a dedicated frontend developer with a flair for creating visually stunning web applications.
+ My journey in the world of coding began with a love for crafting elegant and responsive user interfaces.
 
  👨‍💻 Tech Stack:
 - Languages: JavaScript (ES6+), HTML5, CSS3
