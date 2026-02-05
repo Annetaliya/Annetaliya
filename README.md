@@ -1,4 +1,6 @@
 ## Hi there 
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/a6f119a6-0040-442e-99e9-79cb119df5dd)
+
 ### About Me
  I'm Annette, a dedicated frontend developer with a flair for creating visually stunning web applications.
  My journey in the world of coding began with a love for crafting elegant and responsive user interfaces.
@@ -7,7 +9,8 @@
 
   ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/b8d55b1e-b78e-49d5-a9c7-569ba93083b6)
   ![212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b](https://github.com/user-attachments/assets/9a745d66-c7a2-4fd7-9f70-efb7eeb8ba1b)
-  ![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/user-attachments/assets/5de24872-2405-493d-9688-0a3e1e00319a)
+![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/413121eb-f936-416e-b75c-9f64388c6d70)
+
 
 
 - Languages: JavaScript (ES6+), HTML5, CSS3
